@@ -9,19 +9,19 @@ export const sliderData = [
 export const sliderDataAuthentic = [
   {
     h1: "Authentication",
-    p: "Create authentication technology to give access, Correspond <br /> to those stored in a database of lauthorized users.",
+    p: "Create authentication technology to give access, Correspond to those stored in a database of lauthorized users.",
   },
   {
     h1: "Authentication",
-    p: "Create authentication technology to give access, Correspond <br /> to those stored in a database of lauthorized users.",
+    p: "Create authentication technology to give access, Correspond to those stored in a database of lauthorized users.",
   },
   {
     h1: "Authentication",
-    p: "Create authentication technology to give access, Correspond <br /> to those stored in a database of lauthorized users.",
+    p: "Create authentication technology to give access, Correspond to those stored in a database of lauthorized users.",
   },
   {
     h1: "Authentication",
-    p: "Create authentication technology to give access, Correspond <br /> to those stored in a database of lauthorized users.",
+    p: "Create authentication technology to give access, Correspond to those stored in a database of lauthorized users.",
   },
 ];
 
