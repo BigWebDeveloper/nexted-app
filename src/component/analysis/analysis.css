@@ -149,9 +149,10 @@
 
 @media only screen and (max-width: 1024px) {
   .analysis .center .swot {
-    grid-template-columns: auto;
+    grid-template-columns: 1fr;
     gap: 2%;
     padding: 0;
+    width: 100%;
   }
 
   .swot-text {
